@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Address Book</string>
+    <string name="action_settings">Settings</string>
+    <string name="ryan_jones">Ryan Jones</string>
+    <string name="jesse_jackson">Jesse Jackson</string>
+    <string name="button_contact">View Contact</string>
+    <string name="rjones_address">1234 Android St. Google, CA 75368</string>
+    <string name="jjackson_address">991 Sherrif Lane. Cop Cove, MA. 90210</string>
+    <string name="jjackson_phone">(727) 123-4567</string>
+    <string name="rjones_phone">(727) 789-4563</string>
+    <string name="page_title">Contacts</string>
+    <string name="title_activity_jesse_jackson_contact">Jesse Jackson</string>
+    <string name="title_activity_ryan_jones_contact">Ryan Jones</string>
+    <string name="back_button">Back to Contacts</string>
+</resources>
